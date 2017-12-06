@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17769" started-at="2017-12-05T12:16:33Z" finished-at="2017-12-05T12:16:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17769" started-at="2017-12-05T12:16:33Z" finished-at="2017-12-05T12:16:50Z">
+      <class name="test_cases.SmokeTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:test_cases.SmokeTest@5ba23b66]" name="login" duration-ms="17757" started-at="2017-12-05T17:46:33Z" finished-at="2017-12-05T17:46:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- test_cases.SmokeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
