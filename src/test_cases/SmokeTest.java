@@ -70,6 +70,6 @@ public class SmokeTest {
 	 
 	//edit from git
 	  
-	  
+	  System.out.println("import done");
   }
 }
