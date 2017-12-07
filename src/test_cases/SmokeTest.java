@@ -68,7 +68,7 @@ public class SmokeTest {
 		 Thread.sleep(3000);
 		 driver.findElement(By.xpath("//input[@id='dataForm:postMessageCmdId' and @class='btn']")).click();
 	 
-	
+	//edit from git
 	  
 	  
   }
